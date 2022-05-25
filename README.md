@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KashidkarLaxman
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ... Working as Solution Developer in Incentius(Pune)
+- 👀 I’m interested in ...FullStack Web Development
+- 🌱 I’m currently  Working as Solution Developer in Incentius(Pune)
 - 💞️ I’m looking to collaborate on ...Machine Learning Projects
 - 📫 You can reach me via email: kashidkar37@gmail.com
 
